@@ -1,12 +1,11 @@
 Forkify 
 
-!([<img width="897" height="959" alt="forkify" src="https://github.com/user-attachments/assets/84953db9-3aac-4c02-a611-c89ef897905f" />
-])
+<img width="897" height="959" alt="forkify" src="https://github.com/user-attachments/assets/84953db9-3aac-4c02-a611-c89ef897905f" />
 
 ## 📖 About
 A fast and responsive web application aimed at searching-saving-executing recipes with adjustable servings. Built with **Javascript** which I was learning from a course made by Jonas Schmedtmann.
 
-👉 **Live Demo:** [https://fokify-iakovos.netlify.app/]
+👉 **Live Demo:** https://fokify-iakovos.netlify.app/
 
 ## 🛠️ Tech Stack
 * **Build Tool:**  ⚡
