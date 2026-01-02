@@ -1,4 +1,4 @@
-<img width="1793" height="1917" alt="image" src="https://github.com/user-attachments/assets/4aad2c94-c0d1-43b4-823d-6cd3c3b2f47b" /># [forkify] ⚡
+Forkify 
 
 !([<img width="897" height="959" alt="forkify" src="https://github.com/user-attachments/assets/84953db9-3aac-4c02-a611-c89ef897905f" />
 ])
