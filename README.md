@@ -1,6 +1,6 @@
 # Forkify // Recipe Application 🍲
 
-https://github.com/user-attachments/assets/84953db9-3aac-4c02-a611-c89ef897905f
+![Forkify App Screenshot](https://github.com/user-attachments/assets/84953db9-3aac-4c02-a611-c89ef897905f)
 
 ## 📖 About
 Forkify is a vanilla JavaScript application that interacts with a custom API to fetch and display food recipes. It allows users to search for recipes, adjust servings, and bookmark their favorites.
